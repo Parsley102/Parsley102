@@ -4,10 +4,6 @@
 
 <br>
 
-<picture>
-  <source media="(prefers color-scheme: dark)" srcset="https://tse1.explicit.bing.net/th/id/OIP.CUnNFe6fB6q4PTfm63VSnwHaKg?cb=ucfimg2&pid=Api&ucfimg=1">
-</picture>
-<picture>
 <source media="(prefers color-scheme: light)" srcset="https://static.zerochan.net/Shin.Megami.Tensei:.PERSONA.3.full.4468629.jpg">
 </picture>
   <img alt="ALT-IMG" src="https://tse1.mm.bing.net/th/id/OIP.ys8z6OntSGOOS0tzgk3aqgHaHa?cb=ucfimgc2&pid=Api">
