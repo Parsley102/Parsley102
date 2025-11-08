@@ -1,13 +1,13 @@
 # README.md
 
 # Greetings, and welcome to my page!
-<br>
-<picture>
 
+<br>
+
+<picture>
   <source media="(prefers color-scheme: dark)" srcset="https://ibb.co/s93tbq5X">
   <source media="(prefers color-scheme: light)" srcset="https://ibb.co/XkNpVhsv">
   <img alt="ALT-IMG" src="https://ibb.co/S4KqC8Jj">
-
 </picture>
 
 <br>
