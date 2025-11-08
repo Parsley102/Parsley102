@@ -16,7 +16,7 @@
 
 # Whoami
 
-### I am a transfeminine 21 year old tech hobbyist/enthusiast, democratic socialist advocate who seeks to improve their productivity, discipline and competency in programming and overall tech skills! My other hobbies include making new images with photo editing software, creating music, making crafts from repurposed materials, and reading up on articles regarding various academic subjects.
+### I am a transfeminine 21-year-old tech hobbyist/enthusiast, democratic socialist advocate who seeks to improve their productivity, discipline and competency in programming and overall tech skills! My other hobbies include making new images with photo editing software, creating music, making crafts from repurposed materials, and reading up on articles regarding various academic subjects. <br> Here's hoping you will find a practical (or impractical) use for my scripts and programs, because if you do, you can buy me a soda (I do not like beer, I would like to call my repos "Sodaware" instead.)!
 
 <br>
 
