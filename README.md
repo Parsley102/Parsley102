@@ -11,5 +11,13 @@
 
 <br>
 
-## Here you will find many of my projects that are (currently) often written in HTML/CSS, JavaScript and Python!
+## Here you will find many of my projects that are (currently) often written in Markdown Language, HTML/CSS, JavaScript and Python!
+<br>
+
+# Whoami
+
+### I am a transfeminine 21 year old tech hobbyist/enthusiast, democratic socialist advocate who seeks to improve their productivity, discipline and competency in programming and overall tech skills! My other hobbies include making new images with photo editing software, creating music, making crafts from repurposed materials, and reading up on articles regarding various academic subjects.
+
+<br>
+
 ###### *This repository is currently under construction and subject to change over time.
