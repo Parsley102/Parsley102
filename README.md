@@ -1,6 +1,6 @@
 # README.md
 
-#### Greetings, and welcome to my page!
+# Greetings, and welcome to my page!
 <br>
 <picture>
 
@@ -15,4 +15,4 @@
 <br>
 
 ## Here you will find many of my projects that are (currently) often written in HTML/CSS, JavaScript and Python!
-# *This repository is currently under construction and subject to change over time.
+###### *This repository is currently under construction and subject to change over time.
