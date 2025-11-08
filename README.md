@@ -4,11 +4,9 @@
 <br>
 <picture>
 
-  <source media="(prefers color-scheme: dark)" srcset="[Kotone_Dark](https://ibb.co/s93tbq5X)">
-
-  <source media="(prefers color-scheme: light)" srcset="[Kotone_Light](https://ibb.co/XkNpVhsv)">
-
-  <img alt="ALT-IMG" src="[OUR-DEFAULT-IMAGE](https://ibb.co/S4KqC8Jj)">
+  <source media="(prefers color-scheme: dark)" srcset="https://ibb.co/s93tbq5X">
+  <source media="(prefers color-scheme: light)" srcset="https://ibb.co/XkNpVhsv">
+  <img alt="ALT-IMG" src="https://ibb.co/S4KqC8Jj">
 
 </picture>
 
